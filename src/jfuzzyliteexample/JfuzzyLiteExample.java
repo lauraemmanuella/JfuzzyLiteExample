@@ -1,3 +1,5 @@
+package jfuzzyliteexample;
+
 import com.fuzzylite.*;
 import com.fuzzylite.activation.General;
 import com.fuzzylite.defuzzifier.Centroid;
